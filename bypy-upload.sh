@@ -1,1 +1,0 @@
-bypy upload data/*.json dev_data/FLOOD_AI_APPLY/data/

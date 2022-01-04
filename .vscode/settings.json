@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Flood_AI_Apply}/data/paper.db",
+            "name": "paper"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
